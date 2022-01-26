@@ -1,0 +1,26 @@
+{
+  "name": "arathorn-discord-bot",
+  "version": "1.0.0",
+  "description": "This is a discord bot made for my friend's server. Based off my first DND Character!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tastiestPie/Arathorn-Discord-Bot.git"
+  },
+  "author": "Gabriel Que",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tastiestPie/Arathorn-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/tastiestPie/Arathorn-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.7.0"
+  }
+}
