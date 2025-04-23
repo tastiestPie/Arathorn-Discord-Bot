@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/tastiestPie/Arathorn-Discord-Bot#readme",
   "dependencies": {
-    "discord.js": "^13.6.0",
+    "discord.js": "^14.18.0",
     "dotenv": "^14.3.2"
   },
   "devDependencies": {
